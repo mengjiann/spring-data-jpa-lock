@@ -1,0 +1,1 @@
+INSERT INTO RECORD (credit,redeemd,created_datetime) VALUES (100,0,NOW()),(200,50,NOW());
